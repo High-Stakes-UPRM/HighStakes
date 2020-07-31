@@ -24,14 +24,15 @@ Our project was started by 5 college students from Puerto Rico who saw too many 
 ## Short description
 
 ### What's the problem?
-
+In recent years, the effects of climate change have become more apparent...
 
 ### How can technology help?
 
 
+
 ### The idea
-
-
+Our goal is to build a 'high stakes' grid to alert users of potential dangers associated to climate change while monitoring different tendencies using AI software.
+With this we’ll be able to monitor hyper-local environmental conditions such air humidity and temperature, water level and soil humidity. 
 
 ## Demo video
 
