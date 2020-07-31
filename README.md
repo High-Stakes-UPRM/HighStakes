@@ -41,7 +41,7 @@ We aim to provide Hyper-localized environmental data for catastrophe alert.
 
 ## Long description
 
-[More detail is available here](LONGDESC.md)
+[More detail is available here](DESCRIPTION.md)
 
 ## Project roadmap
 ![RoadmapJune](images/RoadmapV2-June.jpg)
