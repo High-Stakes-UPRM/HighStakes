@@ -1,0 +1,19 @@
+.App {
+  min-height: 100vh;
+  /* background-color: black; */
+  background-image: linear-gradient(
+    rgba(0, 22, 50, 100),
+    rgba(35, 44, 64, 100)
+  );
+  font-family: "Raleway", sans-serif;
+  min-width: 340px;
+}
+
+.appHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2vh;
+  font-size: calc(6px + 2vmin);
+  color: white;
+}

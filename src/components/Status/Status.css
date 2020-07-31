@@ -1,0 +1,62 @@
+.statusWrapper {
+  display: flex;
+  flex-direction: column;
+  padding-top: 1%;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 5vh;
+}
+
+.statusStable {
+  background-color: rgba(90, 231, 81, 0.19);
+  height: 8vh;
+}
+
+.statusWarning {
+  background-color: rgba(255, 236, 0, 0.19);
+  height: 8vh;
+}
+
+.statusAlert {
+  background-color: rgba(255, 0, 0, 0.37);
+  height: 8vh;
+}
+
+/* .statusColorLeft {
+  
+} */
+
+.statusStableLeft {
+  background-color: rgb(90, 231, 81);
+  width: 3%;
+  height: 8vh;
+  float: left;
+}
+
+.statusWarningLeft {
+  background-color: rgb(255, 236, 0);
+  width: 3%;
+  height: 8vh;
+  float: left;
+}
+
+.statusAlertLeft {
+  background-color: rgb(255, 0, 0);
+  width: 3%;
+  height: 8vh;
+  float: left;
+}
+
+.statusText {
+  float: left;
+  width: 50%;
+  margin-left: 5%;
+  font-size: 5.5vh;
+}
+
+.statusTimeStamp {
+  margin-top: 5px;
+  color: rgba(255, 255, 255, 0.514);
+}
