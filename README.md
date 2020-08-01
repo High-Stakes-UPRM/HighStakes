@@ -1,4 +1,4 @@
-#High Stakes
+# High Stakes\
 
 ## What is High Stakes?
 Our project was started by 5 college students from Puerto Rico who saw too many naural disasters take away the crops in the farmlands and damage many properties in our cities. After many years of seeing our communities suffer, we decided to accept the challenge in developing an easily deployable solution that helps people get warnings before the situation reaches a point of no return. Our solution comes by integrating dynamic IoT sensors with a web application that alerts each member of the community in a way they can be aware of what is happening realtime. 
