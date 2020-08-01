@@ -77,29 +77,51 @@ The page will reload if you make edits.<br />
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You need to have installed:
+HighStakesBackend Repository
+Node.js
 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Load your terminal and navigate to the folder containing the High
+Stakes Backend directory.\
+On Windows CMD:
 
-Say what the step will be, for example
-
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
+```
+C:\Users\User> cd (drag HighStakesBackend from FileExplorer)
+C:\Users\User\Documents\GitHub\HighStakesBackend>
 ```
 
-And repeat
+Once in the directory type "npm install": 
 
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
 ```
+C:\Users\User\Documents\GitHub\HighStakesBackend>npm install
+```
+When the install finishes, type "node app.js"
+
+```
+C:\Users\User\Documents\GitHub\HighStakesBackend>node app.js
+```
+
+Once this finishes, open another CMD terminal (without closing the Backend Terminal) and navigate to the folder containing the High Stakes Web app.
+
+```
+C:\Users\User> cd (drag HighStakes from FileExplorer)
+C:\Users\User\Documents\GitHub\HighStakes>
+```
+Now type "npm install" and wait for it to complete
+```
+C:\Users\User\Documents\GitHub\HighStakes>npm install
+```
+
+Once it finishes you can launch the web app with "npm start".
+
+```
+C:\Users\User\Documents\GitHub\HighStakes>npm  start
+```
+
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
