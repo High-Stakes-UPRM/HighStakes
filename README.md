@@ -44,7 +44,7 @@ With this we’ll be able to monitor hyper-local environmental conditions such a
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+More detail is available [here](DESCRIPTION.md)
 
 ## Project roadmap
 ![RoadmapJune](images/RoadmapV2-June.jpg)
@@ -52,6 +52,7 @@ With this we’ll be able to monitor hyper-local environmental conditions such a
 ![RoadmapSoftware](images/RoadmapV2-FutureSoftware.jpg)
 ![RoadmapHardware](images/RoadmapV2-FutureHardware.jpg)
 
+More business detail available [here:](business.md)
 
 
 
@@ -59,7 +60,7 @@ With this we’ll be able to monitor hyper-local environmental conditions such a
 ## Getting Started
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Note: The following instructions cover the necessary steps to run the FrontEnd application which is capable of fetching the simulated IoT data as well as fetch the current weather from your location (given permission). This values are then compared and based on a given threshold, will result in a status shown of either (STABLE, WARNING, or ALERT). To enable Push Notifications, the repo found here: [BackEnd](https://github.com/danyalfaro/high_stakes_backend) has to also be setup. This other repo contains the BackEnd code developed using Node with the Express framework.
+Note: The following instructions cover the necessary steps to run the FrontEnd application which is capable of fetching the simulated IoT data as well as fetch the current weather from your location (given permission). This values are then compared and based on a given threshold, will result in a status shown of either (STABLE, WARNING, or ALERT). To enable Push Notifications, the repo found here: [BackEnd](https://github.com/High-Stakes-UPRM/HighStakesBackend) has to also be setup. This other repo contains the BackEnd code developed using Node with the Express framework.
 
 First, inside the project directory, we must install all necessary dependencies by running:
 
