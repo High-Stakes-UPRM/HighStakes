@@ -11,7 +11,6 @@ Our project was started by 5 college students from Puerto Rico who saw too many 
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Acknowledgments](#acknowledgments)
@@ -110,11 +109,11 @@ You can find a running system to test at [http://hsnr.mybluemix.net/](http://hsn
 
 ## Built with
 
-[Node-RED](https://nodered.org/)\
-[Watson IOT platform]()\
-[IBM Cloudant]()\
-[Weather company API]()\
-[Node.js](https://nodejs.org/en/)
+[Node-RED](https://nodered.org/) - Develop Dashboard \
+[Watson IOT platform](https://dwwz8o.internetofthings.ibmcloud.com/dashboard/devices/browse) - Configuration for the ESP and data receiver \
+[IBM Cloudant](https://www.ibm.com/cloud/cloudant) - Used for the hosting of Node-Red. \
+[Weather company API](https://callforcode.weather.com/)\ - Utilized to fetch real-time weather conditions. \
+[Node.js](https://nodejs.org/en/) - Provides the tools for rendering the developing environment for the webapp. 
 
 ## Manufacturing 
 
