@@ -65,22 +65,19 @@ Note: The following instructions cover the necessary steps to run the FrontEnd a
 
 ### Prerequisites
 
-You need to have installed:
-HighStakes Repository
-Node.js
-
+You need to have installed: \
+ HighStakes Repository\
+ Node.js
 
 ### Installing
 
 Load your terminal and navigate to the folder containing the High
-Stakes  directory.\
-On Windows CMD:
+Stakes  directory, we used CMD but the process is the same in Linux console.\
 
 ```
 C:\Users\User> cd (drag HighStakes from FileExplorer)
 C:\Users\User\Documents\GitHub\HighStakes>
 ```
-On Linux Terminal 
 
 
 Once inside the project directory, we must install all necessary dependencies by running:
