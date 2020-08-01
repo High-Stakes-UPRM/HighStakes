@@ -89,22 +89,34 @@ Stakes Backend directory.\
 On Windows CMD:
 
 ```
-C:\Users\User> cd (drag HighStakesBackend from FileExplorer)
-C:\Users\User\Documents\GitHub\HighStakesBackend>
+C:\Users\User> cd (drag HighStakes from FileExplorer)
+C:\Users\User\Documents\GitHub\HighStakes>
+```
+Once inside the project directory, we must install all necessary dependencies by running:
+
+### `npm install`
+```
+C:\Users\User\Documents\GitHub\HighStakes>npm install
 ```
 
-Once in the directory type "npm install": 
+
+After the installs complete, we can start the application by running:
+
+### `npm start`
 
 ```
-C:\Users\User\Documents\GitHub\HighStakesBackend>npm install
-```
-When the install finishes, type "node app.js"
-
-```
-C:\Users\User\Documents\GitHub\HighStakesBackend>node app.js
+C:\Users\User\Documents\GitHub\HighStakes>npm  start
 ```
 
-Once this finishes, open another CMD terminal (without closing the Backend Terminal) and navigate to the folder containing the High Stakes Web app.
+Which runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser if it doesn't open automatically. 
+
+The page will reload if you make edits.<br />
+
+```
+C:\Users\User\Documents\GitHub\HighStakes>node app.js
+```
+
 
 ```
 C:\Users\User> cd (drag HighStakes from FileExplorer)
