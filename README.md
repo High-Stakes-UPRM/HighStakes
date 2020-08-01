@@ -113,26 +113,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser if
 
 The page will reload if you make edits.<br />
 
-```
-C:\Users\User\Documents\GitHub\HighStakes>node app.js
-```
-
-
-```
-C:\Users\User> cd (drag HighStakes from FileExplorer)
-C:\Users\User\Documents\GitHub\HighStakes>
-```
-Now type "npm install" and wait for it to complete
-```
-C:\Users\User\Documents\GitHub\HighStakes>npm install
-```
-
-Once it finishes you can launch the web app with "npm start".
-
-```
-C:\Users\User\Documents\GitHub\HighStakes>npm  start
-```
-
 
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -156,9 +136,7 @@ vi test/test.js
 Explain what these tests test and why, if you chose `eslint` for example
 
 ```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
+
 ```
 
 ## Live demo
