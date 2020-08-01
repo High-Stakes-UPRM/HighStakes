@@ -14,10 +14,6 @@ Our project was started by 5 college students from Puerto Rico who saw too many 
 1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Versioning](#versioning)
-1. [Authors](#authors)
-1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
 
 ## Short description
