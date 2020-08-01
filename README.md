@@ -103,9 +103,10 @@ You can find the code for the Data Acquisition Code of the ESP [here](files/IoTD
 
 ## Live demo
 
-You can find a running system to test at [http://hsnr.mybluemix.net/](http://hsnr.mybluemix.net/)
+You can find a running system to test at [http://hsnr.mybluemix.net/](http://hsnr.mybluemix.net/) \
+### Here you can access the dashboard
+![Dashboard Instruction](images/Dashboard.png)
 
-![Dashboard Instruction](imgages/Dashboard.png)
 
 
 ## Built with
