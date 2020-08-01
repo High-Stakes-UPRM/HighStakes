@@ -167,5 +167,5 @@ Weather company API
 
 
 ## Acknowledgments
-
+We would like to acknowledge Daniel Krook, for his tips and guidance. \
 Based on Code and Response's [Template](https://github.com/Code-and-Response/Project-Sample)
