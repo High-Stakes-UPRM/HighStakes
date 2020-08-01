@@ -133,6 +133,11 @@ You can find a running system to test at [http://hsnr.mybluemix.net/](http://hsn
 
 ## Built with
 
+[Node-RED](https://nodered.org/)
+[Watson IOT platform]
+[IBM Cloudant]
+[IBM 
+Weather company API
 
 ## Manufacturing 
 
@@ -163,4 +168,4 @@ You can find a running system to test at [http://hsnr.mybluemix.net/](http://hsn
 
 ## Acknowledgments
 
-[Based on Code and Response Template](https://github.com/Code-and-Response/Project-Sample)
+Based on Code and Response's [Template](https://github.com/Code-and-Response/Project-Sample)
