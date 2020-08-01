@@ -3,7 +3,7 @@
  This is a business model canvas made by the High Stakes team, considering these 3 markets. We also conducted some market research, in which we were able to interview Toa Alta farmer Carlos Cruz, which gave us some insight into the needs of the agricultural industry. 
  
  
-**The interview has been translated and edited for clarity:**
+**The interview has been translated and edited for clarity, the original transcript can be found [here](interview.md).**
  
  Q: Have you noticed any trends or curiosities about the environment on your property?\
 A: I have noticed periods of 7 weeks of sun, plus 90 degrees. Before that it was 6 weeks of rain. Now we are in drought. I used a cistern and I ran out of water for a week. The tanks could not be refilled due to the lack of rain. The planting of chick peas is one that's changed. 15 to 20 years ago it was harvested from September to October for Christmas, but now we have to wait around Easter.
