@@ -162,9 +162,6 @@ Weather company API
 
 
 
-## License
-
-
 
 ## Acknowledgments
 We would like to acknowledge Daniel Krook, for his tips and guidance. \
