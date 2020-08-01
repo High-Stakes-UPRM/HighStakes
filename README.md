@@ -24,7 +24,7 @@ Our project was started by 5 college students from Puerto Rico who saw too many 
 ## Short description
 
 ### What's the problem?
-In recent years, the effects of climate change have become more apparent...
+In recent years, climate change has affected negatively our environment, resulting in global warming and recurrent weather related catastrophes.
 
 ### How can technology help?
 
@@ -62,36 +62,27 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Note: The following instructions cover the necessary steps to run the FrontEnd application which is capable of fetching the simulated IoT data as well as fetch the current weather from your location (given permission). This values are then compared and based on a given threshold, will result in a status shown of either (STABLE, WARNING, or ALERT). To enable Push Notifications, the repo found here: [BackEnd](https://github.com/High-Stakes-UPRM/HighStakesBackend) has to also be setup. This other repo contains the BackEnd code developed using Node with the Express framework.
 
-First, inside the project directory, we must install all necessary dependencies by running:
-
-### `npm install`
-
-After the installs complete, we can start the application by running:
-
-### `npm start`
-
-Which runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
 
 ### Prerequisites
 
 You need to have installed:
-HighStakesBackend Repository
+HighStakes Repository
 Node.js
 
 
 ### Installing
 
 Load your terminal and navigate to the folder containing the High
-Stakes Backend directory.\
+Stakes  directory.\
 On Windows CMD:
 
 ```
 C:\Users\User> cd (drag HighStakes from FileExplorer)
 C:\Users\User\Documents\GitHub\HighStakes>
 ```
+On Linux Terminal 
+
+
 Once inside the project directory, we must install all necessary dependencies by running:
 
 ### `npm install`
