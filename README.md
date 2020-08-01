@@ -1,4 +1,4 @@
-# High Stakes\
+# High Stakes
 
 ## What is High Stakes?
 Our project was started by 5 college students from Puerto Rico who saw too many naural disasters take away the crops in the farmlands and damage many properties in our cities. After many years of seeing our communities suffer, we decided to accept the challenge in developing an easily deployable solution that helps people get warnings before the situation reaches a point of no return. Our solution comes by integrating dynamic IoT sensors with a web application that alerts each member of the community in a way they can be aware of what is happening realtime. 
@@ -140,7 +140,7 @@ You can find a running system to test at [http://hsnr.mybluemix.net/](http://hsn
 - [Water Level Sensor](https://www.amazon.com/DAOKI-Sensor-Detection-Surface-Arduino/dp/B01MUA31AE?ref_=fsclp_pl_dp_1) 
 - [DHT11 Temperature and Humidity Sensor](https://www.aliexpress.com/item/32612842301.html?src=google&src=google&albch=shopping&acnt=494-037-6276&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&&albagn=888888&albcp=1582410664&albag=59754279756&trgt=851320553483&crea=en32612842301&netw=u&device=c&albpg=851320553483&albpd=en32612842301) 
 - [ESP8266 Microcontroller](https://www.amazon.com/dp/B081CSJV2V?ref=ppx_pop_mob_ap_share) 
-- 3d Printed Model\
+- 3d Printed Model 
 
 **Total Estimated Cost per Stake: ~$20**
 
