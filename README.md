@@ -66,7 +66,7 @@ Note: The following instructions cover the necessary steps to run the FrontEnd a
 
 You need to have installed: \
  HighStakes Repository\
- Node.js
+ [Node.js](https://nodejs.org/en/)
 
 ### Installing
 
