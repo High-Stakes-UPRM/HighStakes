@@ -141,6 +141,7 @@ You can find a running system to test at [http://hsnr.mybluemix.net/](http://hsn
 - [DHT11 Temperature and Humidity Sensor](https://www.aliexpress.com/item/32612842301.html?src=google&src=google&albch=shopping&acnt=494-037-6276&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&&albagn=888888&albcp=1582410664&albag=59754279756&trgt=851320553483&crea=en32612842301&netw=u&device=c&albpg=851320553483&albpd=en32612842301) 
 - [ESP8266 Microcontroller](https://www.amazon.com/dp/B081CSJV2V?ref=ppx_pop_mob_ap_share) 
 - 3d Printed Model\
+
 **Total Estimated Cost per Stake: ~$20**
 
 
