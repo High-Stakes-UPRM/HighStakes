@@ -102,29 +102,16 @@ The page will reload if you make edits.<br />
 
 
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
-Explain how to run the automated tests for this system
+
 
 ### Break down into end to end tests
 
-Explain what these tests test and why, if you were using something like `mocha` for instance
 
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
 
 ### And coding style tests
 
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-
-```
 
 ## Live demo
 
