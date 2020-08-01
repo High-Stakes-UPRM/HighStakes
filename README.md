@@ -40,7 +40,7 @@ With this we’ll be able to monitor hyper-local environmental conditions such a
 
 ## The architecture
 
-![Architecture](images/Arch.jpg)
+![Architecture](images/Arch.jpeg)
 
 ## Long description
 
