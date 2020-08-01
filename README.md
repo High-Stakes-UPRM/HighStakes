@@ -35,7 +35,7 @@ With this we’ll be able to monitor hyper-local environmental conditions such a
 
 ## Demo video
 
-
+[![High Stakes](images/LogoCompleteHD.png)](https://www.youtube.com/watch?v=YJQirFngprU&feature=youtu.be)
 
 ## The architecture
 
@@ -135,17 +135,6 @@ You can find a running system to test at [http://hsnr.mybluemix.net/](http://hsn
 - 3d Printed Model 
 
 **Total Estimated Cost per Stake: ~$20**
-
-
-## Contributing
-
-
-
-## Versioning
-
-
-
-## Authors
 
 
 
