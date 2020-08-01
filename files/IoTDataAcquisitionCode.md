@@ -1,5 +1,6 @@
 ## This is the IoT Data Acquisition Code for the ESP. 
 
+### This code is utilized for the ESP and sensor communication. 
 ``` 
 #include <ESP8266WiFi.h>
 #include <Adafruit_NeoPixel.h>
