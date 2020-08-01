@@ -52,7 +52,7 @@ More detail is available [here](DESCRIPTION.md)
 ![RoadmapSoftware](images/RoadmapV2-FutureSoftware.jpg)
 ![RoadmapHardware](images/RoadmapV2-FutureHardware.jpg)
 
-More business detail available [here:](business.md)
+## More business detail available [here:](business.md)
 
 
 
