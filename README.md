@@ -96,22 +96,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser if
 
 The page will reload if you make edits.<br />
 
+## Data Acquisition Code
 
+You can find the code for the Data Acquisition Code of the ESP [here](files/IoTDataAcquisitionCode.md)
 
-## Running the tests
-
-
-
-### Break down into end to end tests
-
-
-
-### And coding style tests
 
 
 ## Live demo
 
 You can find a running system to test at [http://hsnr.mybluemix.net/](http://hsnr.mybluemix.net/)
+
 
 
 ## Built with
