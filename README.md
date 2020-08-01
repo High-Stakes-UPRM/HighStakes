@@ -27,7 +27,7 @@ In recent years, climate change has affected negatively our environment, resulti
 
 ### How can technology help?
 
-
+By using IoT sensors, IBM Cloud services and open source code, a web application was developed to monitor environmental data measured by an IoT sensing stake. By measuring data like air temperature and humidity, water level and soil humidity, hyper-local conditions can be monitored and compared to the Weather Company API. This comparison triggers alerts when anomalies are found to let the user know of any danger.
 
 ### The idea
 Our goal is to build a 'high stakes' grid to alert users of potential dangers associated to climate change while monitoring different tendencies using AI software.
